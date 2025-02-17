@@ -113,5 +113,4 @@ const FiltersGroup = props => {
     </div>
   )
 }
-
 export default FiltersGroup

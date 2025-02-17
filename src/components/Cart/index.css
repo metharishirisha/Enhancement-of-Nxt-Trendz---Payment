@@ -37,16 +37,4 @@
   }
 }
 
-.remove-all {
-  display: flex;
-  justify-content: end;
-  color: blue;
-  background-color: #fff;
-  padding: 10px 20px;
-  border: none;
-  cursor: pointer;
-  border-radius: 5px;
-  font-size: 16px;
-  outline: none;
-  margin-right: 0; /* Push the button to the right */
-}
+/* Write your CSS here */
